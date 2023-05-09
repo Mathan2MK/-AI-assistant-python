@@ -1,5 +1,5 @@
 # AI-assistant-python
-# ai assistant, amazon alexa , google assistant , pycharm , python , python source code , python free code , 
+# ai assistant, amazon alexa , google assistant , pycharm , python , python source code , python free code , easy python code
 # first install to terminal python libraries 
 # speech_recognition as sr
 # pyttsx3
