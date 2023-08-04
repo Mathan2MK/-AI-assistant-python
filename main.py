@@ -10,6 +10,7 @@ listener = sr.Recognizer()
 bot = pyttsx3.init()
 voices = bot.getProperty('voices')
 bot.setProperty('voice',voices[1].id)
+
 def talk(text):
     bot.say(text)
     bot.runAndWait()
